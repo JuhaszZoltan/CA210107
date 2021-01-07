@@ -69,6 +69,7 @@ namespace CA210107
             Array.Resize(ref tomb, 3);
 
             Kiir(tomb);
+            Console.WriteLine("asd");
 
 
             Console.ReadKey();
